@@ -1,6 +1,25 @@
 /*!
  * Simple (Single) Linked List
  * MIT License by Wisnu Adi Nurcahyo
+ *
+ * Available methods:
+ *   push(x) : Void
+ *     Insert a new element in the end of the List.
+ *
+ *   remove() : Void
+ *     Remove the last element of the List.
+ *
+ *   insert(x) : Void
+ *     Insert a new element in the begining of the List.
+ *
+ *   pop() : Void
+ *     Remove the first element of the List.
+ *
+ *   exists(x) : Bool
+ *     Return whether `x` exists or not.
+ *
+ *   display() : Void
+ *     Print the complete elements of the List.
  */
 
 #include <iostream>

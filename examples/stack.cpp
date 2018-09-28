@@ -1,6 +1,22 @@
 /*!
  * Stack
  * MIT License by Wisnu Adi Nurcahyo
+ *
+ * Available methods:
+ *   push(x) : Void
+ *     Insert new element in the begining of the List.
+ *
+ *   pop() : Void
+ *     Remove the first element of the List.
+ *
+ *   peek() : Int
+ *     Get the first element of the List.
+ *
+ *   is_empty() : Bool
+ *     Return whether the List empty or not.
+ *
+ *   display() : Void
+ *     Print the complete stack elements.
  */
 
 #include <iostream>
